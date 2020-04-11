@@ -3,3 +3,4 @@ once clone done go to test1 directory
 root@ip-172-31-33-204:~/projectA# cd test1
 root@ip-172-31-33-204:~/projectA/test1# git status
 This is local update
+Git push - to push the remote changes to the centralized repository
